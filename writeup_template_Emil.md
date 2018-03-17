@@ -46,7 +46,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-the pipeline is perfctly working on all images and video except the optional one having some issuse in the tree shadow and low visiblity of the yellow lane
+the pipeline is perfcetly working on all images and video except the optional question challenge clip one having some issuse in the tree shadow and low visiblity of the yellow lane
 
 
 
