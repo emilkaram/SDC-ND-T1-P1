@@ -11,9 +11,7 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+ ![](https://github.com/emilkaram/SDC-ND-T1-P1/blob/master/test_images/output_solidWhiteCurve.jpg)
 
 ---
 
