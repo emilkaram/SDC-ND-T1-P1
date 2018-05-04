@@ -41,7 +41,7 @@ I conslideated and extarplotation the line using the avergae of line data coordi
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+
 
 
 ### 2. Identify potential shortcomings with your current pipeline
